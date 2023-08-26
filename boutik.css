@@ -1,0 +1,165 @@
+body{
+    background-color:rgb(248, 241, 232);
+}
+img.logo{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    
+}
+img.panier{
+    height: 25px;
+    width: 25px;
+    margin-left: 30em;
+}
+nav.meni{
+ background-color:white;
+ padding: 18px 40px;
+ display: flex;
+ width: 94%;
+ align-items: center;
+}
+nav.meni a:hover{
+    color: blue;
+}
+nav.meni a{
+    text-decoration: none;
+    margin-left: 10em;
+}
+.foto{
+    float: right;
+    margin:14px 80px;
+}
+.dd{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:medium;
+}
+.rabe{
+    text-transform: uppercase;
+    background-color: gray;
+    height: 150px;
+    width: 170px;
+    text-align: center;
+    padding:50px;
+    font-size:30px;
+    margin:120px 50px;
+    margin-left: 180px;
+}
+.vide{
+    background-color: black;
+    border-radius: 25%;
+    padding: 5px 0;
+}
+img.imaj1,.imaj2,.imaj3{
+    height: 100px;
+    width: 120px;
+}
+div.kontene{
+    background-color:rgb(138, 138, 232);
+    width: 94%;
+    padding: 80px 40px;
+    display: flex;
+}
+div.kontene h1{
+    text-align: center;
+    display: flex;
+}
+div.kontene img.imaj1,.imaj2,.imaj3{
+    margin:0 140px;
+}
+.tit{
+    background-color:rgb(138, 138, 232);
+    width: 94%;
+    padding:1px 40px;
+}
+.tit h1{
+    text-align: center;
+}
+.produit{
+    background-color:white;
+    width: 94%;
+    padding: 8px 40px;
+}
+.produit h3{
+    text-align: center;
+}
+div.pwodui{
+background-color:  rgb(138, 138, 232);
+width: 94%;
+padding: 40px 40px;
+display: flex;
+}
+div.pwodui img,.pwodui2 img{
+    height: 150px;
+    width: 140px;
+    margin: 0 90px;
+}
+.phone p,.phone13 p,.phone5s p,.phone13pro p{
+    margin: 15px 128px;
+    text-align: center;
+}
+div.pwodui2{
+    background-color:  rgb(138, 138, 232);
+    width: 94%;
+    padding: 80px 40px;
+    display: flex;
+    }
+.laptop p,.casque p,.casquebose p,.linèt p{
+  margin: 15px 122px;
+  text-align: center;
+}
+div.koleksyon{
+    background-color:white;
+    width: 94%;
+    padding: 40px 40px;
+}
+div.koleksyon p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    text-align: center;
+    font-weight: bold;
+}
+div.kay{
+    background-color:  rgb(138, 138, 232);
+    width: 94%;
+    padding: 80px 40px;
+    display: flex;
+}
+div.mezon img,.mezon2 img,.mezon3 img{
+    height: 250px;
+    width: 340px;
+    margin: 0 30px;
+}
+div.mezon h1,.mezon2 h1,.mezon3 h1{
+    text-align: center;
+    margin: 15px 50px;
+    font-variant: small-caps;
+}
+div.mezon p,.mezon2 p,.mezon3 p{
+    text-align: center;
+}
+div.fin{
+    background-color:white;
+    padding: 40px 40px;
+    width: 94%;
+    display: flex;
+    align-items: center;
+}
+div.loka,div.about{
+    padding: 10px 180px;
+}
+div.loka h3,p,div.loka2 h3,a,div.about h3,p{
+    text-align: center;
+}
+.imajj{
+    margin-left: 60px;
+}
+.fini{
+    background-color: rgb(43, 38, 38);
+    padding: 5px 40px;
+    width: 94%;
+}
+.fini p{
+    color: white;
+    margin-right: 59px;
+}
